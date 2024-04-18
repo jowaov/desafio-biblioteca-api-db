@@ -1,0 +1,6 @@
+@DesafioAPIRocketseat_HostAddress = http://localhost:5184
+
+GET {{DesafioAPIRocketseat_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
